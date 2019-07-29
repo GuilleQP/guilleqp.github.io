@@ -1,8 +1,9 @@
-# Nothing here yet
+# Greetings!
+Guillermo here :smile:. I'm a CS Engineer specialized in computation and machine learning. This is a personal blog to keep track of all my projects ideas and thoughts.
 
 * * *
 
-[devlog](devlog.md)
+[devlog](RTSdevlog.md)
 
 
 
