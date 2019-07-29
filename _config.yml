@@ -2,24 +2,7 @@ title: guilleqp
 description: Merlot is a theme for GitHub Pages.
 theme: jekyll-theme-merlot
 
-
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
-
-footer-links:
-
-  dribbble:
-
-  email:
-
-  facebook:
-
-  flickr:
-
-  github: barryclark/jekyll-now
-
-  instagram:
-
-
-  rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+disqus:
+    # Leave shortname blank to disable comments site-wide.
+    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+    shortname: my_disqus_shortname
