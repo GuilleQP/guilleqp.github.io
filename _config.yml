@@ -1,7 +1,7 @@
 title: guilleqp
 description: Computer Science Engineer Blog
 theme: jekyll-theme-merlot
-
+google_analytics: UA-144819850-1
 
 plugins:
   - jemoji
