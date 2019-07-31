@@ -1,10 +1,10 @@
 [Back](index.md)
 
 # RTS Devlog
-## Idea :bulb:
+## Idea 💡
 The idea is to make a multiplayer Real Time Startegy game inspired in my favorite games, like: Age of Empires, Imperium, Sparta, Battle for the Middle Earth, Praetorians, Civilization, Starcraft...
 
-## Log :newspaper:
+## Log 📰
 
 ### First post! - 31/7/2019
 I've been working in this project now for two weeks and I'm learning so many things. It's not my first Unity project but it's the first one that I'm very exited with (pretty ambitious though).
@@ -25,7 +25,7 @@ Here's a test with a **laser soldier** unit, when another unit with different te
 
 With this basic structure and units I'm now planning to implement two factions. The idea is to have several civilizations from different moments of the history combined. For example, the romans vs some random futuristic civ.
 
-## Comment and get a cookie :cookie:!
+## Comment and get a cookie 🍪!
 Any feedback will be appreciated.
 
 <div id="disqus_thread"></div>
