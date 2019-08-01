@@ -24,6 +24,7 @@ Here's a test with a **laser soldier** unit, when another unit with different te
 ![](/gifs/laser_soldier.gif)
 
 With this basic structure and units I'm now planning to implement two factions. The idea is to have several civilizations from different moments of the history combined. For example, the romans vs some random futuristic civ.
+![](a.mp3)
 
 ## Comment and get a cookie 🍪!
 Any feedback will be appreciated.
