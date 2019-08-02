@@ -12,13 +12,13 @@ Scroll down to leave a comment and let me know what you think!
 
 ## Log 📰
 ### Romans planification and wheat farm - 2/8/2019
-Hi there! I've been thinking about the first faction to implement into the game and finally I've decided that the **Roman** civilization is the best one to start. This civ will be very standard, with close combat and mid-range units (no cavalry). Here's a diagram with the structures and units that I have in mind at the moment, the light-blue diamonds represent that a structure is made with that unit and the dark ones indicates wich units can be trained in a specific building. Of course, this is only the first approach into this civ planification, but everything has a start.
+Hi there! I've been thinking about the first faction to implement into the game and finally I've decided that the **Roman** civilization is the best one to start. This civ will be very standard, with close combat and mid-range units (no cavalry). Here's a diagram with the structures and units that I have in mind at the moment, the light-blue diamonds represent that a structure is made with that unit and the dark ones indicate which units can be trained in a specific building. Of course, this is only the first approach into this civ planification, but everything has a start.
 
 ![](/images/romans.png)
 
 Each civilization will have **three main resources**:
 - Monetary/material resource 💰. Used to build structures and train units.
-- Food 🍞. Used to train units and comsumed by soldiers.
+- Food 🍞. Used to train units and consumed by soldiers.
 - Population 👩‍👩‍👦‍👦. Current population and limit (increasable with a specific structure like houses).
 
 #### Working on the Wheat Field (Rome)
