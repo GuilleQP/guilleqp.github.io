@@ -12,51 +12,7 @@ Scroll down to leave a comment and let me know what you think!
 ### Romans planification and wheat farm - 2/8/2019
 
 
-<div class="mermaid">
-classDiagram
-Romans --> Units
-Romans --> Structures
-Units --> Builder
-Units --> Legionary
-Units --> Archer
-Units --> Centurion
-Structures --> TownCenter
-Structures --> Fountain
-Structures --> Barracks
-Structures --> TrainingField
-Structures --> FortifiedCamp
-Structures --> WheatField
-Structures --> House
-Builder o-- Fountain
-Builder o-- Barracks
-Builder o-- TrainingField
-Centurion o-- FortifiedCamp
-Builder o-- WheatField
-TownCenter *-- Builder
-TownCenter *-- Centurion
-Barracks *-- Legionary
-Barracks *-- Archer
-Legionary : Close combat
-Legionary : HP = 110
-Legionary : DPS = 15
-Archer : Distance
-Archer : HP = 80
-Archer : DPS = 10
-Builder : Long training time
-Builder : HP = 100
-Builder : DPS = 0
-Centurion : Close combat
-Centurion : Damage bonus to nearby units
-Centurion : HP = 200
-Centurion : DPS = 20
-TownCenter : Central faction structure
-Fountain : Heal nearby units
-Barracks : Train attack units
-TrainingField : Level up units
-WheatField : Produces food
-FortifiedCamp : Defense bonus
-House : Increase population limit
-</div>
+![](/images/romans.png)
 
 I started designing in Blender some wheat with the thought to repeat that single mesh in order to make a hole field but I didn't like the result (left), so I restarted the model again with a more simplistic aproach (right). I made each row of "wheat" an independent object to control the position.
 
