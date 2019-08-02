@@ -3,7 +3,8 @@
 [Home](index.md)
 
 # RTS Devlog
-![](https://img.shields.io/badge/Modeling-Blender_2.8-orange.svg) ![](https://img.shields.io/badge/Game_Engine-Unity_3D-blue.svg) ![](https://img.shields.io/badge/Blogging-Markdown-green.svg) ![](https://img.shields.io/badge/Energy-Coffe-brown.svg)
+![](https://img.shields.io/badge/Modeling-Blender_2.8-orange.svg) ![](https://img.shields.io/badge/Game_Engine-Unity_3D-blue.svg) ![](https://img.shields.io/badge/Blogging-Markdown-green.svg) ![](https://img.shields.io/badge/Energy-Coffe-brown.svg) ![](https://img.shields.io/github/last-commit/guilleqp/guilleqp.github.io)
+
 ## Idea 💡
 The idea is to make a multiplayer Real Time Startegy game inspired in my favorite games, like: Age of Empires, Imperium, Sparta, Battle for the Middle Earth, Praetorians, Civilization, Starcraft...
 
