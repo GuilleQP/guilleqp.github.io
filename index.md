@@ -3,4 +3,6 @@ Guillermo here 😄. I'm a CS Engineer specialized in computation and machine le
 
 * * *
 ## Game dev 🎮
-I'm currently trying to make a **Real Time Strategy game** using Unity 3D and Blender. Here you have the detailed [DEVLOG](RTSdevlog.md).
+I'm currently trying to make a **Real Time Strategy game** using Unity 3D and Blender. Here you have the detailed 👉[DEVLOG](RTSdevlog.md).
+
+* * *

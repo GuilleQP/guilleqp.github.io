@@ -4,6 +4,8 @@
 ## Idea 💡
 The idea is to make a multiplayer Real Time Startegy game inspired in my favorite games, like: Age of Empires, Imperium, Sparta, Battle for the Middle Earth, Praetorians, Civilization, Starcraft...
 
+Scroll down to leave a comment and let me know what you think!
+
 ## Log 📰
 
 ### First post! - 31/7/2019
