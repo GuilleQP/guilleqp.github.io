@@ -9,20 +9,44 @@
 classDiagram
 Romans --> Units
 Romans --> Structures
-Romans : aasd
 Units --> Builder
 Units --> Legionary
 Units --> Archer
+Units --> Centurion
 Structures --> TownCenter
 Structures --> Fountain
 Structures --> Barracks
+Structures --> TrainingField
+Structures --> FortifiedCamp
+Structures --> WheatField
+Structures --> House
 Builder o-- Fountain
 Builder o-- Barracks
-Builder : asd
+Builder o-- TrainingField
+Centurion o-- FortifiedCamp
+Builder o-- WheatField
 TownCenter *-- Builder
+TownCenter *-- Centurion
 Barracks *-- Legionary
 Barracks *-- Archer
 Legionary : Close combat
-Legionary : HP = 100
-Legionary : DPS = 10
+Legionary : HP = 110
+Legionary : DPS = 15
+Archer : Distance
+Archer : HP = 80
+Archer : DPS = 10
+Builder : Long training time
+Builder : HP = 100
+Builder : DPS = 0
+Centurion : Close combat
+Centurion : Damage bonus to nearby units
+Centurion : HP = 200
+Centurion : DPS = 20
+TownCenter : Central faction structure
+Fountain : Heal nearby units
+Barracks : Train attack units
+TrainingField : Level up units
+WheatField : Produces food
+FortifiedCamp : Defense bonus
+House : Increase population limit
 </div>

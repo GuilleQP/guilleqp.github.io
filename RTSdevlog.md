@@ -1,4 +1,6 @@
-[Back](index.md)
+<script src="https://unpkg.com/mermaid@8.1.0/dist/mermaid.min.js"></script>
+
+[Home](index.md)
 
 # RTS Devlog
 ## Idea 💡
@@ -7,6 +9,62 @@ The idea is to make a multiplayer Real Time Startegy game inspired in my favorit
 Scroll down to leave a comment and let me know what you think!
 
 ## Log 📰
+### Romans planification and wheat farm - 2/8/2019
+
+
+<div class="mermaid">
+classDiagram
+Romans --> Units
+Romans --> Structures
+Units --> Builder
+Units --> Legionary
+Units --> Archer
+Units --> Centurion
+Structures --> TownCenter
+Structures --> Fountain
+Structures --> Barracks
+Structures --> TrainingField
+Structures --> FortifiedCamp
+Structures --> WheatField
+Structures --> House
+Builder o-- Fountain
+Builder o-- Barracks
+Builder o-- TrainingField
+Centurion o-- FortifiedCamp
+Builder o-- WheatField
+TownCenter *-- Builder
+TownCenter *-- Centurion
+Barracks *-- Legionary
+Barracks *-- Archer
+Legionary : Close combat
+Legionary : HP = 110
+Legionary : DPS = 15
+Archer : Distance
+Archer : HP = 80
+Archer : DPS = 10
+Builder : Long training time
+Builder : HP = 100
+Builder : DPS = 0
+Centurion : Close combat
+Centurion : Damage bonus to nearby units
+Centurion : HP = 200
+Centurion : DPS = 20
+TownCenter : Central faction structure
+Fountain : Heal nearby units
+Barracks : Train attack units
+TrainingField : Level up units
+WheatField : Produces food
+FortifiedCamp : Defense bonus
+House : Increase population limit
+</div>
+
+I started designing in Blender some wheat with the thought to repeat that single mesh in order to make a hole field but I didn't like the result (left), so I restarted the model again with a more simplistic aproach (right). I made each row of "wheat" an independent object to control the position.
+
+![](/images/wheat_first_try.png) ![](/images/wheat_field.png)
+
+After importing the model into Unity I added to it the base structure prefab that I have (building behavior, particle effect, health bar...) and then animated each row of wheat. In this example this field produces 20 units of food per second.
+
+![](/gifs/wheat_field.gif)
 
 ### First post! - 31/7/2019
 I've been working in this project now for two weeks and I'm learning so many things. It's not my first Unity project but it's the first one that I'm very exited with (pretty ambitious though).
