@@ -3,6 +3,7 @@
 [Home](index.md)
 
 # RTS Devlog
+![](https://img.shields.io/badge/Modeling-Blender_2.8-orange.svg) ![](https://img.shields.io/badge/Game_Engine-Unity_3D-blue.svg) ![](https://img.shields.io/badge/Blogging-Markdown-green.svg) ![](https://img.shields.io/badge/Energy-Coffe-brown.svg)
 ## Idea 💡
 The idea is to make a multiplayer Real Time Startegy game inspired in my favorite games, like: Age of Empires, Imperium, Sparta, Battle for the Middle Earth, Praetorians, Civilization, Starcraft...
 
@@ -10,9 +11,16 @@ Scroll down to leave a comment and let me know what you think!
 
 ## Log 📰
 ### Romans planification and wheat farm - 2/8/2019
-
+Hi there! I've been thinking about the first faction to implement into the game and finally I've decided that the **Roman** civilization is the best one to start. This civ will be very standard, with close combat and mid-range units (no cavalry). Here's a diagram with the structures and units that I have in mind at the moment, the light-blue diamonds represent that a structure is made with that unit and the dark ones indicates wich units can be trained in a specific building. Of course, this is only the first approach into this civ planification, but everything has a start.
 
 ![](/images/romans.png)
+
+Each civilization will have **three main resources**:
+- Monetary/material resource 💰. Used to build structures and train units.
+- Food 🍞. Used to train units and comsumed by soldiers.
+- Population 👩‍👩‍👦‍👦. Current population and limit (increasable with a specific structure like houses).
+
+#### Working on the Wheat Field (Rome)
 
 I started designing in Blender some wheat with the thought to repeat that single mesh in order to make a hole field but I didn't like the result (left), so I restarted the model again with a more simplistic aproach (right). I made each row of "wheat" an independent object to control the position.
 
@@ -22,6 +30,9 @@ After importing the model into Unity I added to it the base structure prefab tha
 
 ![](/gifs/wheat_field.gif)
 
+That's all for now, have a nice day! 😊
+
+* * *
 ### First post! - 31/7/2019
 I've been working in this project now for two weeks and I'm learning so many things. It's not my first Unity project but it's the first one that I'm very exited with (pretty ambitious though).
 
