@@ -11,16 +11,6 @@ The idea is to make a **multiplayer Real Time Startegy game** inspired in my fav
 
 Scroll down to the [comments section](#comments) and let me know what you think!
 
-## Average project progress
-This is an **approximate** idea of the game % completed.
-
-<div class="progress">
-  <div class="progress-bar progress-bar-info progress-bar-striped" role="progressbar"
-  aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width:50%">
-    2% Complete
-  </div>
-</div>
-
 ## Log 📰
 ### New terrain navigation - 8/8/2019
 In the last posts I've shown some units that can move in a plane, that's possible thanks to the navigation tools provided by Unity. But I need something different so I have spent some time testing scripts that can bake the NavMesh surface during runtime, which means that the available walk space is affected by new buildings and the units will avoid that structure if it's in their path instead of going through it 😅.
