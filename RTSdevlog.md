@@ -31,6 +31,7 @@ Last three weeks so many names for the project/game came into my mind. Thinking 
 
 That's all for now 💙.
 
+* * *
 ### Romans planification and wheat farm - 2/8/2019
 Hi there! I've been thinking about the first faction to implement into the game and finally I've decided that the **Roman** civilization is the best one to start. This civ will be very standard, with close combat and mid-range units (no cavalry). Here's a diagram with the structures and units that I have in mind at the moment, the light-blue diamonds represent that a structure is made with that unit and the dark ones indicate which units can be trained in a specific building. Of course, this is only the first approach into this civ planification, but everything has a start.
 
