@@ -12,6 +12,25 @@ The idea is to make a multiplayer Real Time Startegy game inspired in my favorit
 Scroll down to the [comments section](#comments) and let me know what you think!
 
 ## Log 📰
+### New terrain navigation - 8/8/2019
+In the last posts I've shown some units that can move in a plane, that's possible thanks to the navigation tools provided by Unity. But I need something different so I have spent some time testing scripts that can bake the NavMesh surface during runtime, which means that the available walk space is affected by new buildings and the units will avoid that structure if it's in their path instead of going through it 😅.
+
+![](/gifs/unit_navigation.gif)
+
+Then I modeled a simple terrain (1 vs 1) in Blender with a low poly style. After some bug fixes and smashing my keyboard a couple times, this is the resulting navigation mesh surface that can be re-baked during runtime. The baking process can make the game a bit laggy sometimes but idk why 🤔. Still a lot to do but I consider this a milestone without a doubt.
+
+![](/images/navMesh3.png) ![](images/navMesh2.png)
+
+#### Barracks model (Rome)
+First attempt with the roman barracks, this is where the roman soldiers will be trained. I'm making these fast models only for testing, this is not the final result. All the graphics will be improved later on.
+
+![](/images/roman_barracks.png)
+
+#### Possible name for the game
+Last three weeks so many names for the project/game came into my mind. Thinking about the main aspect of the game -*having several civilizations from different **places** and moments of the **time***- I liked "**Anachrony**".
+
+That's all for now 💙.
+
 ### Romans planification and wheat farm - 2/8/2019
 Hi there! I've been thinking about the first faction to implement into the game and finally I've decided that the **Roman** civilization is the best one to start. This civ will be very standard, with close combat and mid-range units (no cavalry). Here's a diagram with the structures and units that I have in mind at the moment, the light-blue diamonds represent that a structure is made with that unit and the dark ones indicate which units can be trained in a specific building. Of course, this is only the first approach into this civ planification, but everything has a start.
 
