@@ -2,14 +2,24 @@
 
 [Home](index.md)
 
-# RTS Devlog
+# RTS Game Devlog
 ![](https://img.shields.io/badge/Modeling-Blender_2.8-orange.svg) ![](https://img.shields.io/badge/Game_Engine-Unity_3D-blue.svg) ![](https://img.shields.io/badge/Blogging-Markdown-green.svg) ![](https://img.shields.io/badge/Energy-Coffee-brown.svg) ![](https://img.shields.io/github/last-commit/guilleqp/guilleqp.github.io)
 
 
 ## Idea 💡
-The idea is to make a multiplayer Real Time Startegy game inspired in my favorite games, like: Age of Empires, Imperium, Sparta, Battle for the Middle Earth, Praetorians, Civilization, Starcraft...
+The idea is to make a **multiplayer Real Time Startegy game** inspired in my favorite games, like: Age of Empires, Imperium, Sparta, Battle for the Middle Earth, Praetorians, Civilization, Starcraft...
 
 Scroll down to the [comments section](#comments) and let me know what you think!
+
+## Average project progress
+This is an **approximate** idea of the game % completed.
+
+<div class="progress">
+  <div class="progress-bar progress-bar-info progress-bar-striped" role="progressbar"
+  aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width:50%">
+    2% Complete
+  </div>
+</div>
 
 ## Log 📰
 ### New terrain navigation - 8/8/2019
