@@ -3,6 +3,8 @@
 # Hyperinflation in videogames
 ![](https://img.shields.io/badge/Status-Work_in_progress-brown.svg) ![](https://img.shields.io/badge/Last_review-27/08/2019-green.svg)
 
+>  Inflation is when you pay fifteen dollars for the ten-dollar haircut you used to get for five dollars when you had hair. - Sam Ewing 
+
 What is hyperinflation? How does it appear in videogames? What are the best solutions to avoid it in your games? I'll try to answer all this questions.
 
 ## What is hyperinflation?
