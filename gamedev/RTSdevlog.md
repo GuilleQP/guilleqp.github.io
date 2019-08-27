@@ -7,7 +7,7 @@
 
 
 ## Idea 💡
-The idea is to make a **multiplayer Real Time Startegy game** inspired in my favorite games, like: Age of Empires, Imperium, Sparta, Battle for the Middle Earth, Praetorians, Civilization, Starcraft...
+The idea is to make a **multiplayer Real Time Strategy game** inspired in my favorite games, like: Age of Empires, Imperium, Sparta, Battle for the Middle Earth, Praetorians, Civilization, Starcraft...
 
 Scroll down to the [comments section](#comments) and let me know what you think!
 
@@ -44,7 +44,7 @@ Each civilization will have **three main resources**:
 
 #### Working on the Wheat Field (Rome)
 
-I started designing in Blender some wheat with the thought to repeat that single mesh in order to make a hole field but I didn't like the result (left), so I restarted the model again with a more simplistic aproach (right). I made each row of "wheat" an independent object to control the position.
+I started designing in Blender some wheat with the thought to repeat that single mesh in order to make a hole field but I didn't like the result (left), so I restarted the model again with a more simplistic approach (right). I made each row of "wheat" an independent object to control the position.
 
 ![](/images/wheat_first_try.png) ![](/images/wheat_field.png)
 

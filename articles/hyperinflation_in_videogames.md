@@ -8,7 +8,7 @@ What is hyperinflation? How does it appear in videogames? What are the best solu
 ## What is hyperinflation?
 Well, according to Google, it's a "monetary inflation occurring at a very high rate" (duh). So a more accurate question should be: What is inflation? Here's a good definition provided by Investopedia:
 
-    Inflation is a quantitative measure of the rate at which the average price level of a basket of selected goods and services in an economy increases over a period of time. It is the constant rise in the general level of prices where a unit of currency buys less than it did in prior periods.
+```Inflation is a quantitative measure of the rate at which the average price level of a basket of selected goods and services in an economy increases over a period of time. It is the constant rise in the general level of prices where a unit of currency buys less than it did in prior periods.```
 
 This is a good example of how inflation appears in the real world due to many factors: producers can't make enough to meet demand (Demand-Pull inflation), goods shortage (Cost-Push inflation), etc.
 
