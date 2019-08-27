@@ -1,6 +1,6 @@
 <script src="https://unpkg.com/mermaid@8.1.0/dist/mermaid.min.js"></script>
 
-[Home](index.md)
+[Home](../index.md)
 
 # RTS Game Devlog
 ![](https://img.shields.io/badge/Modeling-Blender_2.8-orange.svg) ![](https://img.shields.io/badge/Game_Engine-Unity_3D-blue.svg) ![](https://img.shields.io/badge/Blogging-Markdown-green.svg) ![](https://img.shields.io/badge/Energy-Coffee-brown.svg) ![](https://img.shields.io/github/last-commit/guilleqp/guilleqp.github.io)
@@ -74,6 +74,7 @@ Here's a test with a **laser soldier** unit, when another unit with different te
 
 With this basic structure and units I'm now planning to implement two factions. The idea is to have several civilizations from different moments of the history combined. For example, the romans vs some random futuristic civ.
 
+* * *
 ## <a name="comments"></a> Comment and get a cookie 🍪!
 Any feedback will be appreciated.
 
