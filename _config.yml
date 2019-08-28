@@ -5,3 +5,4 @@ google_analytics: UA-144819850-1
 
 plugins:
   - jemoji
+  - jekyll-seo-tag

@@ -3,6 +3,22 @@
   <p>Your browser doesn't support MP3 audio.</p>
 </audio>
 
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script> 
+
+<div class="progress">
+  <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="50"
+  aria-valuemin="0" aria-valuemax="100" style="width:3%">
+    3% Complete
+  </div>
+</div>
+
 <script src="https://unpkg.com/mermaid@8.1.0/dist/mermaid.min.js"></script>
 
 <div class="mermaid">
