@@ -1,13 +1,15 @@
 [Home](../index.md)
 
 # Hyperinflation in videogames
-![](https://img.shields.io/badge/Status-Work_in_progress-brown.svg) ![](https://img.shields.io/badge/Last_review-27/08/2019-green.svg)
+![](https://img.shields.io/badge/Status-Work_in_progress-brown.svg) ![](https://img.shields.io/badge/Last_review-28/08/2019-green.svg)
 
->  Inflation is when you pay fifteen dollars for the ten-dollar haircut you used to get for five dollars when you had hair. - Sam Ewing 
+Recently I entered in a Minecraft server with an economy plugin and the prices of the items had reached **millions**. One cobblestone block was worth 1.2M! I thought this was hilarious so today I will introduce you to the magnificent world of hyperinflation in videogames.
 
 What is hyperinflation? How does it appear in videogames? What are the best solutions to avoid it in your games? I'll try to answer all this questions.
 
 ## What is hyperinflation?
+>  Inflation is when you pay fifteen dollars for the ten-dollar haircut you used to get for five dollars when you had hair. - Sam Ewing 
+
 Well, according to Google, it's a "monetary inflation occurring at a very high rate" (duh). So a more accurate question should be: What is inflation? Here's a good definition provided by Investopedia:
 
 ```Inflation is a quantitative measure of the rate at which the average price level of a basket of selected goods and services in an economy increases over a period of time. It is the constant rise in the general level of prices where a unit of currency buys less than it did in prior periods.```
@@ -28,14 +30,15 @@ I'm not going into details but here are some good real examples of hyperinflatio
 
 ### And in videogames?
 
-Videogames currencies work different than real ones, so the inflation appears due to different aspects. It can be seen mostly in **MMOs** (Massive Multiplayer Online) because the economy of this games is very important and have to last over time. It's not the case with real time strategy games, like League of Legends, because the money is only used in a single game and then disappears. If you are developing a videogame and you're planning to add an economy system, **be very careful matching your game genre**; in other words, don't use a in-game currency if you can avoid it and it's not necessary.
+Videogames currencies work different than real ones, so the inflation appears due to different aspects. It can be seen mostly in **MMOs** (Massive Multiplayer Online) because the economy of this games is very important and have to last over time. It's not the case with other games like real time strategy, for example League of Legends, because the money is only used in a single game and then disappears. If you are developing a videogame and you're planning to add an economy system, **be very careful matching your game genre**; in other words, don't use a in-game currency if you can avoid it and it's not necessary.
 
-Inflation shows up on a videogame currency when players constantly gain in-game money directly from the system. That means that new money is "printed" every time a player kills a mob or completes a quest. In most of the games the players can buy/sell stuff with the in-game currency between each other and with NPCs (Non-Playable Characters)
+Inflation shows up on a videogame currency when players constantly gain in-game money directly from the system. That means that new money is "printed" every time a player kills a mob or completes a quest. When a player goes to a low-level area and kill creatures that's called *farming*. Imagine one player farming money to get that precious desired object, but, in the meantime you have hundreds of thousands of players earning money too. Probably you see now where this is going, there's too many people obtaining money so fast (out of nowhere) and once a player obtains the best objects in your game then the money left is worthless. So you end up with a pile of gold with no value (at least for you).
 
 ![](images/pile_of_gold.gif)
 
-If your game has a finite amount of money you have direct control over it so no hyperinflation should appear. But it's difficult to deal with a game with a specific currency sum. 
+What are the **consequences**? Firstly, the prices of the goods in the players market will grow and new players will not be able to compete with them, then, the game devs will try to fix this by giving more money to the new players (print more money) making the problem even worse and finally, the players will stop using the in-game currency and swap to a barter system.
 
+This is not just for MMOs, you can see the effects of hyperinflation in Minecraft servers with economy plugins, RPGs, online casinos... Basically every online game with a basic economic system.
 
 ## How to deal with it?
 Knowing that a hyperinflation is bad and could cause massive damage to your game. Let's see how to prevent it and deal with it.
@@ -46,22 +49,24 @@ One possible solution is to introduce NPCs in your game for the players with spe
 
 - **Link to real world money**
 
-Eve Online does this with PLEX. you can buy PLEX with real money and then exchange it with other players to gain ISK or use it to increase your subscription time.
+Eve Online does this with PLEX. you can buy PLEX with real money and then exchange it with other players to gain ISK (Eve Online money) or use it to increase your subscription time. This is a good solution but does not eradicate inflation completely. This chart shows the buy/sell price history per PLEX unit using ISK since 2013.
 
-Prices in 'The Forge' region.
-01/01/2013 - sell 1.116.580 buy 1.096.000 start
-24/08/2019 - sell 3.652.900 buy 3.514.030 last day
-03/05/2019 - sell 4.476.700 buy 4.424.000 top
 ![](images/plex_price_history.png)
 
 - **Control over the in-game currency creation**
+
+If your game has a finite amount of money you have direct control over it so no hyperinflation should appear. But it's difficult to deal with a game with a specific currency sum.
+
 - **Raise taxes**
+
+In most of the games the players can trade stuff with the in-game currency between each other and with NPCs (Non-Playable Characters)
 
 You have to be careful with this one because too much high taxes can lead your players to stop playing the game.
 
+
 - Abandon the old currency and switch to a barter economy
 - Increase the production of goods and services ¿?
--
+- Add consumables (food) that cost money and you need more expensive food depending on your level of experience
 
 wow active players 1.7 million oct 2018 [[1]](https://gadgets.ndtv.com/games/news/world-of-warcraft-wow-subscription-numbers-battle-of-azeroth-1932930)
 
