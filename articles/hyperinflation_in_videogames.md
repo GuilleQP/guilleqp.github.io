@@ -1,7 +1,7 @@
 [Home](../index.md)
 
 # Hyperinflation in videogames
-![](https://img.shields.io/badge/Status-Work_in_progress-brown.svg) ![](https://img.shields.io/badge/Last_review-28/08/2019-green.svg)
+![](https://img.shields.io/badge/Status-Finished-light.svg) ![](https://img.shields.io/badge/Last_review-28/08/2019-green.svg)
 
 Recently I entered in a Minecraft server with an economy plugin and the prices of the items had reached **millions**. One cobblestone block was worth 1.2M! I thought this was hilarious so today I will introduce you to the magnificent world of hyperinflation in videogames.
 
@@ -41,17 +41,23 @@ What are the **consequences**? Firstly, the prices of the goods in the players m
 This is not just for MMOs, you can see the effects of hyperinflation in Minecraft servers with economy plugins, RPGs, online casinos... Basically every online game with a basic economic system.
 
 ## How to deal with it?
-Knowing that a hyperinflation is bad and could cause massive damage to your game. Let's see how to prevent it and deal with it.
+Knowing that a hyperinflation is bad and could cause massive damage to your game. Let's see how to prevent it and deal with it. Some of these solutions can and should be put together if you want the best outcome for your game.
 
-- **NPCs**
+- **NPCs** (Non-Playable Characters)
 
 One possible solution is to introduce NPCs in your game for the players with special deals or objects, that way all the money spent on the items bought to these NPCs is "destroyed".
 
+Pro: you control the amount of money that goes out of the players pocket by changing objects prices.
+
+Con: the items sold by these NPCs must be valuable or useful and you need to add new items frequently.
+
 - **Link to real world money**
 
-Eve Online does this with PLEX. you can buy PLEX with real money and then exchange it with other players to gain ISK (Eve Online money) or use it to increase your subscription time. This is a good solution but does not eradicate inflation completely. This chart shows the buy/sell price history per PLEX unit using ISK since 2013.
+Eve Online does this with PLEX. You can buy PLEX with real money and then exchange it with other players to gain ISK (Eve Online money) or use it to increase your subscription time. This is a good solution but does not eradicate inflation completely. This chart shows the buy/sell price [history](https://www.adam4eve.eu/commodity.php?typeID=44992&regionID=10000002&avg=0&from=2013-01-01&until=2019-08-24#) per PLEX unit using ISK since 2013.
 
 ![](images/plex_price_history.png)
+
+This is also the case with WoW tokens, [this](http://meminsf.silverstringmedia.com/labour/a-history-of-world-of-warcrafts-gold-economy/) is a very good article about WoW history. This method is used by big game dev companies and it requires paying methods and a strong purchasing system so it's probably not the best option for an starting indie game. 
 
 - **Control over the in-game currency creation**
 
@@ -59,23 +65,24 @@ If your game has a finite amount of money you have direct control over it so no 
 
 - **Raise taxes**
 
-In most of the games the players can trade stuff with the in-game currency between each other and with NPCs (Non-Playable Characters)
+In most of the games the players can trade stuff with the in-game currency between each other and with NPCs so you can place taxes in those transactions to delete a small amount of money.
 
-You have to be careful with this one because too much high taxes can lead your players to stop playing the game.
+You have to be careful with this one because high taxes can lead your players to stop playing the game.
+
+- **Add consumables** 
+
+This is my favorite one. You can add consumables like food  that costs money and can only be purchased to NPCs and that cannot be tradable. The idea is that the players need to consume this items and they're more expensive depending on your level of experience so it allows the players to progress in the game and obtain money but even if they are farming there will be something extracting it. Also it can be presented as an interesting mechanic into the game rather than an annoying one like taxes.
+
+- **Abandon the old currency and switch to a barter economy**
+
+This method should be taken into account when the game currency is already hyperinflated and no other solution can be applied. You leave the task of setting values to the players and everything is based on what you have and what you want. But it should be possible to specialize in a certain job to have goods to exchange with other players and avoiding everyone to be able to make everything. 
 
 
-- Abandon the old currency and switch to a barter economy
-- Increase the production of goods and services ¿?
-- Add consumables (food) that cost money and you need more expensive food depending on your level of experience
-
-wow active players 1.7 million oct 2018 [[1]](https://gadgets.ndtv.com/games/news/world-of-warcraft-wow-subscription-numbers-battle-of-azeroth-1932930)
-
-http://meminsf.silverstringmedia.com/labour/a-history-of-world-of-warcrafts-gold-economy/
-
-https://www.adam4eve.eu/commodity.php?typeID=44992&regionID=10000002&avg=0&from=2013-01-01&until=2019-08-24#
+#### Written with 💙 by [GuilleQP](../index.md)
 
 * * *
 ## Leave a comment and get a cookie 🍪!
+Do you know another possible solution for this? Or maybe another example of hyperinflation in videogames? Write it down!
 
 <div id="disqus_thread"></div>
 <script>

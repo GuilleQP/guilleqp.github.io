@@ -6,7 +6,7 @@ Guillermo here 😄. I'm a CS Engineer specialized in computation and machine le
 * * *
 ## Articles 📚
 ### **Hyperinflation in videogames** 💸
-XX/08/2019
+28/08/2019
 
 What is hyperinflation? How does it appear in videogames? What are the best solutions to avoid it in your games? [Continue reading...](articles/hyperinflation_in_videogames.md)
 
