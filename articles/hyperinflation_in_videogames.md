@@ -1,7 +1,7 @@
 [Home](../index.md)
 
 # Hyperinflation in videogames
-![](https://img.shields.io/badge/Status-Finished-light.svg) ![](https://img.shields.io/badge/Last_review-28/08/2019-green.svg)
+![](https://img.shields.io/badge/Status-Finished-light.svg) ![](https://img.shields.io/badge/Last_review-01/09/2019-green.svg)
 
 Recently I entered in a Minecraft server with an economy plugin and the prices of the items had reached **millions**. One cobblestone block was worth 1.2M! I thought this was hilarious so today I will introduce you to the magnificent world of hyperinflation in videogames.
 
@@ -72,6 +72,12 @@ You have to be careful with this one because high taxes can lead your players to
 - **Add consumables** 
 
 This is my favorite one. You can add consumables like food  that costs money and can only be purchased to NPCs and that cannot be tradable. The idea is that the players need to consume this items and they're more expensive depending on your level of experience so it allows the players to progress in the game and obtain money but even if they are farming there will be something extracting it. Also it can be presented as an interesting mechanic into the game rather than an annoying one like taxes.
+
+- **Rare items**
+
+We could also call them *deflationary items*. The idea is to have a short amount of super special and rare items that will gain value among the players for just having them. They could do something or just be decorative. But the important part is the **finite amount** otherwise they will be just like the other items of the game.
+
+One perfect example for this is RuneScape's party hats, there are so many info out there about the history of party hats and how they have affected the currency of RuneScape and it's [complex economy](https://runescape.fandom.com/wiki/Economy_guide). Right now the price for one [White partyhat](https://runescape.fandom.com/wiki/Partyhat) is 2,147,483,647 (checked on 28/08/2019).
 
 - **Abandon the old currency and switch to a barter economy**
 
