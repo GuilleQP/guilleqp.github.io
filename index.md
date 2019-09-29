@@ -25,4 +25,11 @@ I'm currently trying to make a **Real Time Strategy game** using Unity 3D and Bl
 
 <blockquote class="twitter-tweet" tw-align-center data-theme="light" data-link-color="#2B7BB9"><p lang="en" dir="ltr">Hey there! I&#39;ve started a Game Dev 🎮blog in my web. Check it out and let me know in the comments what you think! 😊<a href="https://t.co/wyTwpCzNJF">https://t.co/wyTwpCzNJF</a></p>&mdash; Guillermo Quintana (@Guille_qp) <a href="https://twitter.com/Guille_qp/status/1157370410511605760?ref_src=twsrc%5Etfw">August 2, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+### Collapsing choice
+29/09/2019
+
+This is a web game I made in 24h. You have to decide what to eradicate from existence between two concepts every round, the decisions are more hard over time. You can play the game [here](gamedev/collapsing_choice/index.html). And [here](gamedev/collapsing_choice.md) is the complete devlog of the 24h of development.
+
+![](gamedev/images/cc2.png)
+
 * * *

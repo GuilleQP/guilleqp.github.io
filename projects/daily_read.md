@@ -1,7 +1,7 @@
 [Home](../index.md)
 # Daily read 📰
-![](https://img.shields.io/badge/updated-25_sept_2019-blue)
-![](https://img.shields.io/badge/maintained-yes-a) 
+![](https://img.shields.io/badge/Updated-25_sept_2019-blue)
+![](https://img.shields.io/badge/Maintained-yes-a) 
 > All the interesting things for a morning reading session. Coffee ☕ not obligatory but recommended.
 ## Contents
 - [Daily read 📰](#daily-read-%f0%9f%93%b0)
