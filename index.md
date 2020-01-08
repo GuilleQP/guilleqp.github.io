@@ -4,10 +4,6 @@
 Guillermo Quintana here 😄. I'm a CS Engineer specialized in computation and machine learning. This is a personal blog to keep track of all my projects ideas and thoughts.
 
 * * *
-## Projects ⚙
-### **Daily reading list** 📰
-List with interesting resources and news about computer science, artificial intelligence, economics, politics... The best way to start your day with a morning reading session. [Go to list](projects/daily_read.md)
-
 ## Articles 📚
 ### **Hyperinflation in videogames** 💸
 28/08/2019

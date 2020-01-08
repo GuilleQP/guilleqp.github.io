@@ -66,3 +66,7 @@ WheatField : Produces food
 FortifiedCamp : Defense bonus
 House : Increase population limit
 </div>
+
+## Projects ⚙
+### **Daily reading list** 📰
+List with interesting resources and news about computer science, artificial intelligence, economics, politics... The best way to start your day with a morning reading session. [Go to list](projects/daily_read.md)
