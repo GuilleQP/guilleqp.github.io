@@ -5,6 +5,8 @@
 
 The internet is full with people creating their own custom cluster computers at home as a personal project or with a specific objective like: testing parallel programs, having your own web server or file storage system, mining bitcoins... But nowadays there are available powerful web services like Azure, AWS or Google Cloud on which we can run parallel programs, train CNNs or anything we want . So the question is, **is it worth it to create a home cluster from scratch instead of using these alternatives?**
 
+![](images/cluster_meme3.jpg)
+
 Well, in short, **it depends** but the most likely option is that a cloud computing option is going to be the most feasible choice. Nowadays it’s no longer a question of whether you should move to the cloud or not, it’s a matter of which platform to use since there are many options available that also provide free trials for testing. Nevertheless it's a very good project to create your own cluster as a research in the parallel computing field or just to have some fun, we'll get to that later.
 
 By the middle of the 1990’s there was a move away from shared memory computing towards distributed cluster computing. 
@@ -39,16 +41,31 @@ The cheapest and most compact way to build a cluster that I've found is the [Clu
 
 ### Single board computers options
 
-|Board Name|CPU|Cores|GPU|RAM|Eth port|Max SD class|Power supply|Price|
+|Board Name|CPU|Cores|GPU|Top RAM|Eth port|Max SD class|Power supply|Price|
 |:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|RPi 4B|BCM2711B0 1.5GHz|quad-core|Broadcom VideoCore VI|4GB LPDDR4 SDRAM|Gigabit|10|5.1V/3.0A|59,95€|
-|Tinker Board|
+|Arduino Mega 2560|ATmega2560|-|-|256KB FlashROM|-|-|7-12V|~35€|
+|RPi 4B|BCM2711B0 1.5GHz|quad-core|Broadcom VideoCore VI|4GB LPDDR4 SDRAM|Gb|10|5.1V/3.0A|59,95€|
+|Banana Pi M64|Allwinner A64 1.2GHz|quad-core|Mali-400 MP2|2GB DDR3|Gb|10|5V/2A|63€|
+|Tinker Board|RK3288|quad-core|ARM Mali-T764|2GB DDR3|Gb|U3|5V/3A|~80€|
+|BeagleBoard-X15|TI AM5728|2×1.5-GHz|DualSGX544 532MHz|2GB DDR3L|2xGb|10|12V/5A|239$|
+|Huawei HiKey 960|Kirin 960|4x2.3GHz A73 and 4x1.8GHz A53|Mali G71 MP8|3GB LPDDR4 SDRAM|-|10|12V/2A|299$|
 
+Best option: RPi4. [Pico Cluster](https://www.picocluster.com/collections/raspberry-pi4)
+
+## Some interesting projects
+
+[Blockchain Signaling System](https://www.hackster.io/communication-systems-group-university-of-zurich/blockchain-signaling-system-b79968) They used 18 Tinker Boards to use blockchain for signaling DDoS attacks in a cooperative and distributed network defense.
+
+Wikipedia has a [list of distributed computing projects](https://en.wikipedia.org/wiki/List_of_distributed_computing_projects)
+
+Jeff Minard [home cluster](https://jrm.cc/blog/home-cluster-part-i-motivations/)
+
+![](images/cluster_meme2.jpg)
 #### Written with 💙 by [GuilleQP](../index.md)
 
 * * *
 ## Leave a comment and get a cookie 🍪!
-TODO
+What do you think? Are you going to build your own cluster?
 
 <div id="disqus_thread"></div>
 <script>
