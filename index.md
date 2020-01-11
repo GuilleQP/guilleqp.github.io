@@ -5,6 +5,12 @@ Guillermo Quintana here 😄. I'm a CS Engineer specialized in computation and m
 
 * * *
 ## Articles 📚
+### **Is it worth it to build a home cluster?** 🖥🧮
+11/01/2019
+
+The internet is full of people creating their own custom cluster computers at home, but nowadays there are available powerful web services like Azure, AWS or Google Cloud on which we can run parallel programs, train CNNs, host web applications or anything we want, so... Is it worth it to create a home cluster from scratch instead of using these alternatives?
+[Continue reading...](articles/home_cluster.md)
+
 ### **Hyperinflation in videogames** 💸
 28/08/2019
 
