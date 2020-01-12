@@ -3,7 +3,7 @@
 <link rel="shortcut icon" type="image/png" href="images/favicon.ico">
 
 # Greetings!
-Guillermo Quintana here 😄. I'm a CS Engineer specialized in computation and machine learning, I'm currently studying a Master in Artificial Intelligence. This is a personal blog to keep track of all my projects ideas and thoughts.
+Guillermo Quintana Pelayo here 😄. I'm a CS Engineer specialized in computation and machine learning, I'm currently studying a Master in Artificial Intelligence. This is a personal blog to keep track of all my projects ideas and thoughts. [CV](CV_GuillermoQuintana.pdf)
 
 * * *
 ## Articles 📚
