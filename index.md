@@ -1,3 +1,5 @@
+<script data-ad-client="ca-pub-1426143204952754" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 <link rel="shortcut icon" type="image/png" href="images/favicon.ico">
 
 # Greetings!
