@@ -29,7 +29,7 @@ This research project attempts to further the research along the lines of the hy
 05/07/2019
 
 This project presents a tool for the automatic evaluation of programming exercises integrated in the Moodle platform. It is part of my final thesis for the Computer Science Engineering Degree at the University of Cantabria and it was presented at the JENUI 2019 congress.
-[Link to full text](http://www.aenui.net/ojs/index.php?journal=actas_jenui&page=article&op=view&path%5B%5D=513)
+[Link to paper](http://www.aenui.net/ojs/index.php?journal=actas_jenui&page=article&op=view&path%5B%5D=513) (in Spanish) [Link to my final thesis](papers/TFG%20Quintana%20Pelayo%20Guillermo.pdf) (in Spanish)
 
 ## Game dev 🎮
 I'm currently trying to make a **Real Time Strategy game** using Unity 3D and Blender. Here you have the detailed 👉[DEVLOG](gamedev/RTSdevlog.md).
