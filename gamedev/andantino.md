@@ -1,8 +1,8 @@
 [Home](../index.md)
 
 # AI approach to Andantino board game
-
-![](https://img.shields.io/badge/Scripting-C_sharp-lightblue.svg) ![](https://img.shields.io/badge/Game_Engine-Unity_3D-blue.svg) ![](https://img.shields.io/badge/Energy-Coffee-brown.svg) ![](https://img.shields.io/github/last-commit/guilleqp/guilleqp.github.io)
+![](https://img.shields.io/badge/Status-Work_in_progress-orange.svg)
+![](https://img.shields.io/badge/Scripting-C_sharp-lightblue.svg) ![](https://img.shields.io/badge/Game_Engine-Unity_3D-blue.svg) ![](https://img.shields.io/badge/Energy-Coffee-brown.svg)
 
 ## Introduction
 [Andantino](http://www.di.fc.ul.pt/~jpn/gv/andantino.htm) is a board game originally created by David Smith in 1995. The aim of this project is to implement several 1vs1 AI algorithms and see which one performs better in this game. As a secondary objective, the best AI implemented should be capable of playing a full game against a human or another AI in less than 10 minutes.

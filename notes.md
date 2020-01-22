@@ -70,3 +70,6 @@ House : Increase population limit
 ## Projects ⚙
 ### **Daily reading list** 📰
 List with interesting resources and news about computer science, artificial intelligence, economics, politics... The best way to start your day with a morning reading session. [Go to list](projects/daily_read.md)
+
+
+<blockquote class="twitter-tweet" tw-align-center data-theme="light" data-link-color="#2B7BB9"><p lang="en" dir="ltr">Hey there! I&#39;ve started a Game Dev 🎮blog in my web. Check it out and let me know in the comments what you think! 😊<a href="https://t.co/wyTwpCzNJF">https://t.co/wyTwpCzNJF</a></p>&mdash; Guillermo Quintana (@Guille_qp) <a href="https://twitter.com/Guille_qp/status/1157370410511605760?ref_src=twsrc%5Etfw">August 2, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

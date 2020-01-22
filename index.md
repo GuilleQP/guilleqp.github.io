@@ -29,12 +29,19 @@ This research project attempts to further the research along the lines of the hy
 05/07/2019
 
 This project presents a tool for the automatic evaluation of programming exercises integrated in the Moodle platform. It is part of my final thesis for the Computer Science Engineering Degree at the University of Cantabria and it was presented at the JENUI 2019 congress.
-[Link to paper](http://www.aenui.net/ojs/index.php?journal=actas_jenui&page=article&op=view&path%5B%5D=513) (in Spanish) [Link to my final thesis](papers/TFG%20Quintana%20Pelayo%20Guillermo.pdf) (in Spanish)
+[Link to paper](http://www.aenui.net/ojs/index.php?journal=actas_jenui&page=article&op=view&path%5B%5D=513) (in Spanish) - [Link to my final thesis](papers/TFG%20Quintana%20Pelayo%20Guillermo.pdf) (in Spanish)
 
 ## Game dev 🎮
-I'm currently trying to make a **Real Time Strategy game** using Unity 3D and Blender. Here you have the detailed 👉[DEVLOG](gamedev/RTSdevlog.md).
 
-<blockquote class="twitter-tweet" tw-align-center data-theme="light" data-link-color="#2B7BB9"><p lang="en" dir="ltr">Hey there! I&#39;ve started a Game Dev 🎮blog in my web. Check it out and let me know in the comments what you think! 😊<a href="https://t.co/wyTwpCzNJF">https://t.co/wyTwpCzNJF</a></p>&mdash; Guillermo Quintana (@Guille_qp) <a href="https://twitter.com/Guille_qp/status/1157370410511605760?ref_src=twsrc%5Etfw">August 2, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+### Andantino aplha-beta AI approach
+27/10/2019
+
+It consists in the creation of a Game Engine for a two-player board game called Andantino, and the implementation of several AI approaches to see which one performs better. The program is based on the alpha-beta framework. [Detailed DEVLOG](gamedev/andantino.md) - [Results report](papers/Andantino_Report_GuillermoQuintana.pdf)
+
+![](/gamedev/gifs/andantino_minimax1.gif)
+
+### Anachrony
+I'm currently trying to make a **Real Time Strategy game** using Unity 3D and Blender. Here you have the detailed 👉[DEVLOG](gamedev/RTSdevlog.md).
 
 ### Collapsing choice
 29/09/2019
