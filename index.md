@@ -6,9 +6,9 @@
 Guillermo Quintana Pelayo here 😄. I'm a CS Engineer specialized in computation and machine learning, I'm currently studying a Master in Artificial Intelligence. This is a personal blog to keep track of all my projects ideas and thoughts. [CV](CV_GuillermoQuintana.pdf)
 
 * * *
-## Articles 📚
+## Articles 📰
 ### **Is it worth it to build a home cluster?** 🖥🧮
-11/01/2019
+11/01/2020
 
 The internet is full of people creating their own custom cluster computers at home, but nowadays there are available powerful web services like Azure, AWS or Google Cloud on which we can run parallel programs, train CNNs, host web applications or anything we want, so... Is it worth it to create a home cluster from scratch instead of using these alternatives?
 [Continue reading...](articles/home_cluster.md)
@@ -18,10 +18,17 @@ The internet is full of people creating their own custom cluster computers at ho
 
 What is hyperinflation? How does it appear in videogames? What are the best solutions to avoid it in your games? [Continue reading...](articles/hyperinflation_in_videogames.md)
 
+
+## Papers 📓
+### **Improved algorithm selection in the hyper-agent approach to General Video Game Playing**
+22/01/2020
+
+This research project attempts to further the research along the lines of the hyper-agent approach in General Video Game Playing. It is part of a research project for the Master in Artificial Intelligence at the Maastricht University. [Link to full text](papers/MRP_HyperAgent.pdf)
+
 ### **Automatic evaluation plug-in for Moodle** 
 05/07/2019
 
-This article presents a tool for the automatic evaluation of programming exercises which is integrated in the Moodle platform. It was presented at the JENUI 2019 congress.
+This project presents a tool for the automatic evaluation of programming exercises integrated in the Moodle platform. It is part of my final thesis for the Computer Science Engineering Degree at the University of Cantabria and it was presented at the JENUI 2019 congress.
 [Link to full text](http://www.aenui.net/ojs/index.php?journal=actas_jenui&page=article&op=view&path%5B%5D=513)
 
 ## Game dev 🎮
