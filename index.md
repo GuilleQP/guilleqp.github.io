@@ -20,6 +20,12 @@ What is hyperinflation? How does it appear in videogames? What are the best solu
 
 
 ## Papers 📓
+### **Evolutionary Robotics Simulator - Dust collecting robot**
+15/03/2020
+
+This paper presents a solution to the dust collecting robot problem. To train the robot, a 2D simulator was created (with collisions, basic physics and several environments) and then trained with an evolutionary algorithm on a neural network.
+[Link to full text](papers/MRP_HyperAgent.pdf)
+
 ### **Improved algorithm selection in the hyper-agent approach to General Video Game Playing**
 22/01/2020
 
