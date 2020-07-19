@@ -6,20 +6,20 @@
 Guillermo Quintana Pelayo here 😄. I'm a CS Engineer specialized in computation and machine learning, I'm currently studying a Master in Artificial Intelligence. This is a personal blog to keep track of all my projects ideas and thoughts. [CV](CV_GuillermoQuintana2020.pdf)
 
 * * *
-## Articles 📰
-### **Is it worth it to build a home cluster?** 🖥🧮
-11/01/2020
-
-The internet is full of people creating their own custom cluster computers at home, but nowadays there are available powerful web services like Azure, AWS or Google Cloud on which we can run parallel programs, train CNNs, host web applications or anything we want, so... Is it worth it to create a home cluster from scratch instead of using these alternatives?
-[Continue reading...](articles/home_cluster.md)
-
-### **Hyperinflation in videogames** 💸
-28/08/2019
-
-What is hyperinflation? How does it appear in videogames? What are the best solutions to avoid it in your games? [Continue reading...](articles/hyperinflation_in_videogames.md)
-
-
 ## Papers 📓
+
+### **Timetable Scheduling for the Department ofData Science and Knowledge Engineering**
+25/06/2020
+
+In this paper, we investigate whether ILP and metaheuristic approaches could be applied to generate timetables for the Department of Data Science andKnowledge Engineering (DKE) at Maastricht University, and improve them in terms of  student satisfiability.
+[Link to full text](papers/MRP_Report_Timetabling_at_DKE.pdf)
+
+### **NLP approach to Annual Reports Analysis**
+27/05/2020
+
+The aim of this paper is to make use of text mining and NLP methods in order to extract relevant information about changes in a company, such as people, new products or stores, from its annual reports as well as extracting the general sentiment of these texts.
+[Link to full text](papers/IRTM_Project_Report_GuillermoQuintana.pdf)
+
 ### **Evolutionary Robotics Simulator - Dust collecting robot**
 15/03/2020
 
@@ -36,6 +36,20 @@ This research project attempts to further the research along the lines of the hy
 
 This project presents a tool for the automatic evaluation of programming exercises integrated in the Moodle platform. It is part of my final thesis for the Computer Science Engineering Degree at the University of Cantabria and it was presented at the JENUI 2019 congress.
 [Link to paper](http://www.aenui.net/ojs/index.php?journal=actas_jenui&page=article&op=view&path%5B%5D=513) (in Spanish) - [Link to my final thesis](papers/TFG%20Quintana%20Pelayo%20Guillermo.pdf) (in Spanish)
+
+
+## Articles 📰
+### **Is it worth it to build a home cluster?** 🖥🧮
+11/01/2020
+
+The internet is full of people creating their own custom cluster computers at home, but nowadays there are available powerful web services like Azure, AWS or Google Cloud on which we can run parallel programs, train CNNs, host web applications or anything we want, so... Is it worth it to create a home cluster from scratch instead of using these alternatives?
+[Continue reading...](articles/home_cluster.md)
+
+### **Hyperinflation in videogames** 💸
+28/08/2019
+
+What is hyperinflation? How does it appear in videogames? What are the best solutions to avoid it in your games? [Continue reading...](articles/hyperinflation_in_videogames.md)
+
 
 ## Game dev 🎮
 
