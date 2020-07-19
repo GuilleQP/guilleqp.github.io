@@ -8,7 +8,7 @@ Guillermo Quintana Pelayo here 😄. I'm a CS Engineer specialized in computatio
 * * *
 ## Papers 📓
 
-### **Timetable Scheduling for the Department ofData Science and Knowledge Engineering**
+### **Timetable Scheduling for the Department of Data Science and Knowledge Engineering**
 25/06/2020
 
 In this paper, we investigate whether ILP and metaheuristic approaches could be applied to generate timetables for the Department of Data Science andKnowledge Engineering (DKE) at Maastricht University, and improve them in terms of  student satisfiability.
@@ -24,7 +24,7 @@ The aim of this paper is to make use of text mining and NLP methods in order to 
 15/03/2020
 
 This paper presents a solution to the dust collecting robot problem. To train the robot, a 2D simulator was created (with collisions, basic physics and several environments) and then trained with an evolutionary algorithm on a neural network.
-[Link to full text](papers/MRP_HyperAgent.pdf)
+[Link to full text](papers/ERS_report.pdf)
 
 ### **Improved algorithm selection in the hyper-agent approach to General Video Game Playing**
 22/01/2020
